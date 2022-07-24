@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/notesonthego",
+    "prod_uri":"mysql://root:@localhost/notesonthego",
+    "fb_url":"https://facebook.com/notesonthego",
+    "tw_url":"https://twitter.com/notesonthego",
+    "gh_url": "https://github.com/notesonthego",
+    "blog_name": "Notes On The GO",
+    "tag_line": "A Website by Bhupender",
+    "gmail-user":"bhupender701701@gmail.com",
+    "gmail-password":"bhupendergamer",
+    "about_text": "Hi my name is Bhupender and I create web appplications and I am Devil",
+    "no_of_posts": 2,
+    "login_image":"login.svg",
+    "admin_user":"dog",
+    "admin_password": "dogdog",
+    "upload_location":"C:\\Users\\Bhupender\\PycharmProjects\\flast-tut\\static"
+  }
+}
